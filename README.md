@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm a Computer Science Student👋
 
 <!--
 **Mahmoud-Elaaser/Mahmoud-Elaaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
