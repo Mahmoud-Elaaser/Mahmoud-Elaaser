@@ -1,7 +1,7 @@
-### Hi there I'm Mahmoud Diab 👋
+### Hi, I'm Mahmoud Diab 
 - 🔭 I’m currently working on web Development
 - 🌱 I’m currently learning Backend Engineering
-
+- 📫 How to reach me: mahmoudelaaser57@gmail.com
 <!--
 **Mahmoud-Elaaser/Mahmoud-Elaaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
