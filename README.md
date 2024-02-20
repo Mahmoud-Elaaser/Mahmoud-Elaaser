@@ -1,10 +1,10 @@
 ### Hi, I'm Mahmoud Diab 
--I'm a Computer Science student at Menoufia University with experience in software development. 
+• I'm a Computer Science student at Menoufia University with experience in software development. 
 
-🚀 Technical Skills
-Programming Languages: C++, C#, Java 
-Front-End Technologies: HTML, CSS 
-Back-End Technologies: ASP.NET Core
+🚀 Technical Skills:
+ Programming Languages: C++, C#, Java 
+ Front-End Technologies: HTML, CSS 
+ Back-End Technologies: ASP.NET Core
 
 🔧Tools & Platforms: Git, Visual Studio
     
