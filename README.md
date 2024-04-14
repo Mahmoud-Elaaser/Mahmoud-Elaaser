@@ -5,7 +5,8 @@
 
 - How to reach me: mahmoudelaaser57@gmail.com
 
-  
+![Profile views](https://komarev.com/ghpvc/?username=Mahmoud-Elaaser)
+
 <!--
 - ## Contact Me
 
