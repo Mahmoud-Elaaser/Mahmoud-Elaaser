@@ -1,7 +1,7 @@
 ### Hi, I'm Mahmoud Diab 
 • I'm a Computer Science student at Menoufia University with experience in software development. 
     
-🔭 I’m currently learning .NET technologies 
+🔭 I’m currently learning ASP.NET Core
 
 - How to reach me: mahmoudelaaser57@gmail.com
 
