@@ -1,5 +1,5 @@
 ### Hi, I'm Mahmoud Diab 
-• I am a Computer Science student at Menoufia University with experience in software development. 
+• A Computer Science student at Menoufia University with experience in software development. 
     
 🔭 I’m currently learning ASP.NET Core
 
