@@ -3,7 +3,7 @@
 software projects. Skilled in C#, ASP.NET Core, EF Core, and RESTful APIs. Successfully completed intensive
 training at ITI in ASP.NET Core, gaining expertise in backend development. Currently engaged in developing real-world projects
     
-🔭 I’m currently learning ASP.NET Core
+<!--🔭 I’m currently learning ASP.NET Core-->
 
 - How to reach me: mahmoudelaaser57@gmail.com
 
