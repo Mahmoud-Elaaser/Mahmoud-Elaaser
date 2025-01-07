@@ -1,7 +1,6 @@
 ### Hi, I'm Mahmoud Diab 
 • A dedicated and motivated Computer Science student with hands-on experience in developing and managing
-software projects. Skilled in C#, ASP.NET Core, EF Core, and RESTful APIs. Successfully completed intensive
-training at ITI in ASP.NET Core, gaining expertise in backend development. Currently engaged in developing real-world projects
+software projects. Skilled in C#, ASP.NET Core, EF Core, and RESTful APIs. Currently engaged in developing real-world projects
     
 <!--🔭 I’m currently learning ASP.NET Core-->
 
